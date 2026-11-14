@@ -1,0 +1,12 @@
+# Xcode / Swift build products
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.swiftsourceinfo
+
+# Generated locally by XcodeGen
+ColorPad.xcodeproj/
+
+# macOS
+.DS_Store
